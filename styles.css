@@ -19,6 +19,7 @@ body {
   display: flex;
   align-items: flex-end;
   grid-gap: 10px;
+  background-color: transparent;
 }
 
 .box {
